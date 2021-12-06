@@ -1,0 +1,17 @@
+.details-container {
+  width: 400px;
+  margin-top: 22px;
+}
+.item-wrapper {
+  list-style-type: none;
+}
+.item-key {
+  margin-right: 22px;
+}
+.row {
+  display: flex;
+  align-items: center;
+}
+.col {
+  flex-basis: 50%;
+}
